@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kavan Lab</string>
+    <string name="hello_message">Namaste</string>
+    <string name="button_message">me button hu</string>
+</resources>
